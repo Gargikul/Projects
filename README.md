@@ -10,7 +10,7 @@ Welcome to my data science portfolio. This repository showcases projects combini
 | Project | Description | Tools & Technologies |
 |--------|-------------|----------------------|
 | [Online Streaming Service Subscriber Decline Analysis](https://github.com/Gargikul/Projects/blob/master/OnlineStreamingServicesConsumerAnalysis.ipynb) | Multi-model system analyzing subscriber drop trends using SQL, NoSQL, and Python integration. | MySQL, MongoDB, Python, UML, ER diagrams, pandas, matplotlib |
-| [Generative AI Research Network](https://github.com/Gargikul/Projects/blob/master/GenerativeAIResearchNetwork.ipynb) | Network graph analysis of GPT-generated responses to identify latent knowledge structures. | GPT API, Python, NetworkX, Graph Theory |
+| [Generative AI Research Network](https://github.com/Gargikul/Projects/blob/master/GenerativeAIResearchNetwork.ipynb) | Network graph analysis of responses to identify latent knowledge structures. |Python, NetworkX, Graph Theory |
 | [Ambulance Allocation Optimization](https://github.com/Gargikul/Projects/blob/master/Ambulance_Allocation_Project.ipynb) | Data-driven model to reduce emergency response times by clustering high-risk zones and predicting delays. | Python, k-means, Linear Regression, pandas, matplotlib |
 
 ---
