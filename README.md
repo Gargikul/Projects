@@ -56,7 +56,7 @@ Empowered digital media providers to:
 
 ---
 
-## 🚑 3. Ambulance Allocation Optimization *(Coming Soon)*
+## 🚑 3. Ambulance Allocation Optimization
 
 **Goal**: Use machine learning and geospatial data to reduce emergency response times in urban environments.
 
