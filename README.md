@@ -82,6 +82,5 @@ Empowered digital media providers to:
 
 - ✉ Email: kulshreshtha.g@northeastern.edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gargi-kul/)  
-- 💻 [GitHub](https://github.com/Gargikul)
 
 ---
