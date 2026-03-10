@@ -1,5 +1,5 @@
 
-# 🧠 Gargi Kulshreshtha — Data Science Project Portfolio
+# 🧠 Gargi Kulshreshtha — Data Analyst Project Portfolio
 
 Welcome to my data science portfolio. This repository showcases projects combining data modeling, analytics, and visualization with both structured and unstructured data systems. These works span domains such as digital entertainment analytics, generative AI, and emergency response optimization. The projects involve end-to-end implementation: from data modeling and querying to Python-based analysis and business insights.
 
