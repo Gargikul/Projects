@@ -70,11 +70,11 @@ Empowered digital media providers to:
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL, R (basic), MongoDB Query Language
-- **Libraries**: pandas, NumPy, matplotlib, seaborn, scikit-learn, NetworkX
-- **Databases**: MySQL, MongoDB
+- **Languages**: Python, SQL
+- **Libraries**: pandas, NumPy, matplotlib, seaborn, scikit-learn
+- **Databases**: MySQL
 - **Visualization**: Tableau, matplotlib, Plotly
-- **Other Tools**: Jupyter Notebook, GitHub, ER/UML diagramming, GPT API
+- **Other Tools**: Jupyter Notebook, GitHub, ER/UML diagramming
 
 ---
 
